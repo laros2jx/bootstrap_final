@@ -1,0 +1,76 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+  body, html {
+    background-color: #fcf2f2;
+    height: 100%;}
+
+  /* The hero image */
+  .hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("crop_hero.png");
+    /* Set a specific height */
+    zoom: 125%;
+    height: 100%;
+    width: 100%;}x
+
+
+  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: white !important;}
+
+     /* Modify brand and text color */
+  .nav.nav-underline li a {
+    color: white !important;}
+
+  .center {
+    padding: 55px 0;
+    text-align: center;}
+
+  .middle { text-align: center;}
+
+  .carousel-caption {
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 20%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */ 
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 20%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(0,0,0,0) 20%,rgba(0,0,0,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(0,0,0,0) 20%,rgba(0,0,0,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(0,0,0,0) 20%,rgba(0,0,0,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+    }
+
+  h1{font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:white}
+
+  h3 {font-family: "Jura", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color:white}
+
+  h4{font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 800;
+    font-style: normal;}
+
+  h5{font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;}
+
+  h6{font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-style: normal;}
+
+  ul{font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
+
+  p{font-family: "Alumni Sans Pinstripe", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
+
+  a{font-family: "Jura", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;}
+
+
